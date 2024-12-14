@@ -1,9 +1,7 @@
 <h1 align="center">Hi there👋, I'm André Luiz Batista</h1>
-<h3 align="center">A software artisan from Bahia, Brasil</h3>
+<h3 align="center">A software engineer from Bahia, Brasil</h3>
 
 - 🔭 I’m currently working on [InHire by Intera](https://byintera.com/inhire)
-
-- 🌱 I’m currently learning **Serverless and DynamoDB**
 
 - 📫 How to reach me **andre.fsa.lp@gmail.com** or [+55 71 9-9979-6332](http://wa.me/+5571999796332)
 
